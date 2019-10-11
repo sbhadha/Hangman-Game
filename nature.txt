@@ -1,0 +1,8 @@
+tree
+river
+forest
+ocean
+desert
+rainforest
+plains
+arctic
